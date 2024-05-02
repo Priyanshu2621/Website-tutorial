@@ -1,0 +1,54 @@
+#logo img{
+    max-width: 100%;
+    height: 90px;
+    border-radius: 20px;
+}
+#navbar ul{
+  color: white;
+    height: px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+#Name{
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+#Name:hover{
+    color: grey;
+}
+#Background{
+    background-color: black;
+}
+#navbar ul li a {
+    color: white;
+    display: block;
+    padding: 3px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#navbar ul {
+    display: flex;
+}
+#navbar ul li {
+    list-style: none;
+    font-size: 30px;
+}
+#navbar ul li a:hover {
+    color: black;
+    background-color: white;
+}
+#Juice img{
+    border-radius: 20px;
+}
+#IndianFood img{
+    border-radius: 20px;
+}
+#Food{
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
+#Choice{
+    font-size: 200px;
+}
